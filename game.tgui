@@ -1,0 +1,11 @@
+GUI START
+
+	LABEL type here
+	ENTRY
+	BUTTON_button1 submit
+
+	ACTION button1
+
+		PRINT button1 pressed
+
+	END
